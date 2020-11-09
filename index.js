@@ -41,5 +41,11 @@ function iLoveTheBeatles(n) {
   let newArray = []
   
   do {
-    console.log()
+    newArray.push("I love the Beatles!")
+    
+    n = n + 1
+    
+  } while (n < 15)
+  
+  return newArray
 }
