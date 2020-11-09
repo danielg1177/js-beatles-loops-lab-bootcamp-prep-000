@@ -11,3 +11,7 @@ function theBeatlesPlay(arrayM, arrayI) {
   
   return arrayNew
 }
+
+function johnLennonFacts(facts) {
+  
+}
