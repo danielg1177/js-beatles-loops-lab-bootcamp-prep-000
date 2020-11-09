@@ -34,3 +34,12 @@ function johnLennonFacts(facts) {
   
   return newArray
 }
+
+
+function iLoveTheBeatles(n) {
+  
+  let newArray = []
+  
+  do {
+    console.log()
+}
