@@ -2,9 +2,9 @@
 
 function theBeatlesPlay(arrayM, arrayI) {
   
-  const arrayNew = []
+  let arrayNew = []
   
-  for (i = 0; i < arrayM.length ; i++) {
+  for (let i = 0; i < arrayM.length ; i++) {
     
     arrayNew.push(`${arrayM[i]} plays ${arrayI[i]}`)
   }
